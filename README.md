@@ -1,8 +1,11 @@
-# wireless_emg
+# wireless_emg - DOESNT WORK TT
+
+<img src="PIC.png">
+
 wireless emg button aim for b button with esp32 lolin d32
 
-a for transmitter by button state io port 2 and 4
+a for transmitter by button state io port
 
-b for reciver to activate emg port with io port 5, 18
+b for reciver to activate emg port with io port
 
-wire relay and enjoy :D
+wire relay
